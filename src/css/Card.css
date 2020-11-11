@@ -1,0 +1,42 @@
+.card {
+  background: transparent;
+  border: none;
+  width: 338px;
+  height: 300px;
+  display: flex;
+  color: black;
+  border-radius: 0;
+  margin-bottom: 30px;
+}
+/* .card:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+} */
+.card h5 {
+  font-size: 1rem;
+  margin-top: 10px;
+  padding-bottom: 5px;
+  overflow: hidden;
+}
+.card p {
+  font-size: 0.95rem;
+  padding-bottom: 5px;
+  overflow: hidden;
+  color: gray;
+}
+.thumbnail {
+  object-fit: contain;
+  border: none;
+  min-width: 100%;
+  min-height: 190px;
+}
+.card_details_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  overflow: hidden;
+  width: 100%;
+}
+.card_avatar {
+  margin-top: 10px;
+  margin-right: 10px;
+}

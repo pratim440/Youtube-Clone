@@ -1,0 +1,15 @@
+.App {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #f5f5f5;
+}
+.main_container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+  align-items: stretch;
+  justify-content: flex-start;
+}

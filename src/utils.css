@@ -1,0 +1,30 @@
+.individual_item {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 25px;
+}
+.individual_item:hover {
+  background-color: #f3f1f1 !important;
+}
+.individual_item p {
+  font-size: 0.9rem !important;
+  font-weight: 400;
+  padding: 10px 0 0 24px;
+}
+.fixed_icon {
+  font-size: 1.5rem !important;
+  margin-top: -7px !important;
+}
+.fixed_link:hover {
+  color: red !important;
+}
+.fixed_link {
+  text-decoration: none !important;
+  color: #555353;
+  cursor: pointer;
+}
+.fixed_link_active {
+  color: red !important;
+}

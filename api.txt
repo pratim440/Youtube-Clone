@@ -1,0 +1,4 @@
+key = AIzaSyCFgAi8LIX1VQUn8tSnHp8IctLohWjbTxs
+trending = https://www.googleapis.com/youtube/v3/videos?part=contentDetails&chart=mostPopular&regionCode=IN&key=AIzaSyCFgAi8LIX1VQUn8tSnHp8IctLohWjbTxs
+thumbnail = https://img.youtube.com/vi/EZh7my_RASk/hqdefault.jpg
+search = https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=relevance&q=Arduinouno&key=AIzaSyCFgAi8LIX1VQUn8tSnHp8IctLohWjbTxs

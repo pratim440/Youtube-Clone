@@ -1,0 +1,24 @@
+.videoScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+  margin-top: 60px;
+  margin-left: 70px;
+  overflow: hidden;
+}
+.player {
+  min-width: 100%;
+  padding: 0 80px 20px 6px;
+}
+.videoScreen h5 {
+  padding-left: 25px;
+  font-size: 1.35rem;
+  font-weight: 400;
+}
+.videoScreen p {
+  padding-left: 25px;
+  font-size: 1rem;
+}

@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 75px 25px 5px 85px;
+}
+.classLink {
+  text-decoration: none !important;
+}
